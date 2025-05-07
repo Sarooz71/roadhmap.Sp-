@@ -19,7 +19,18 @@ html, body{
     margin: 20px;
 }
 
-header{
-    margin-top: 30px;
-    
+header h2{
+    padding-top: 20px;
+}
+
+.Junior{
+    margin-top: 20px;
+}
+
+.Junior ul li{
+    list-style-type: none;
+   
+}
+h4{
+    color: rgb(115, 160, 49);
 }
